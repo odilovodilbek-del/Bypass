@@ -1,2 +1,0 @@
-# Bypass
-Bypass bot
